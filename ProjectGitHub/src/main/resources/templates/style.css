@@ -1,0 +1,13 @@
+#pointer{
+font-weight: bold;
+}
+.button {
+background: #0000b3; 
+color: white;
+}
+.button:hover { 
+background: #4d4dff; 
+} 
+.button:active { 
+background: #0000b3;  
+}
